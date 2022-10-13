@@ -6,7 +6,7 @@ assignees: 'mohan-the-octocat'
 ---
 
 ### Epic
-- [ ] The Epic no. that this Story is part of...
+- The Epic no. that this Story is part of...
 
 ### User story
 As a ..., I want to ..., so I can ...
@@ -17,11 +17,10 @@ As a ..., I want to ..., so I can ...
 - [ ] This is something that can be verified to show that this user story is satisfied.
 
 ### Related Dev tasks
-```task list
-- task one
-- task two
-- task three
-```
+- [ ] task one
+- [ ] task two
+- [ ] task three
+
 
 ### Sprint Ready Checklist 
 1. - [ ] Acceptance criteria defined 
