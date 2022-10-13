@@ -3,30 +3,30 @@ name: "\U0001F4B0 Epic template"
 about: Create new epic
 title: "[EPIC]"
 labels: epic
-assignees: 'mohan-the-octocat'
-
+assignees: '' 
 ---
+<!-- These are indicative fields. Adjust according to your org/ project's necessities --> 
 
-## Key Business Stakeholder 
+### Key Business Driver
+<!-- The business driver that necessitates this change and how the lack of it impacts --> 
 
-## Rationale ##
+### Background/ Context
 
-## Owner ##
+### Rationale
+<!-- How building this will create an impact on the organization/ business. Be descriptive --> 
 
-## Stakeholder Point of Contact ##
+### Detailed Description 
 
-## Dependencies ##
+### Dependencies
+<!-- Other prior business/ technical dependencies -->
 
-## Description ##
-
-## Context ##
-
-## Related Stories
+### Related User Stories
 ```tasklist
-- [ ]  Issue one
-- [ ]  issue two
-- [ ]  issue three
+- [ ]  Story one
+- [ ]  Story two
+- [ ]  Story three
 ```
-## Acceptance criteria ##
+
+### Acceptance criteria
 
 ## Proof ##
