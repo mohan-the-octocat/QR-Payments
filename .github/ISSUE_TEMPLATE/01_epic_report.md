@@ -21,11 +21,9 @@ assignees: ''
 <!-- Other prior business/ technical dependencies -->
 
 ### Related User Stories
-```tasklist
 - [ ]  Story one
 - [ ]  Story two
 - [ ]  Story three
-```
 
 ### Acceptance criteria
 
